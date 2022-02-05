@@ -3,7 +3,7 @@ name: Action Sample
 on:
   push:
     barnches:
-      -master
+      - main
     workflow_dispatch:
 
   jobs:
